@@ -86,8 +86,8 @@
                 ctx.shadowColor = '#FFF';
                 ctx.fillStyle = "#FFF";
             } else {
-                ctx.fillStyle = "#FF4500";
-                ctx.shadowColor = '#FF4500';
+                ctx.fillStyle = "#0F0";
+                ctx.shadowColor = '#0F0';
             }
 
             var char = text[y] || '';
